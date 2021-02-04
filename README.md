@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I am a Front-End Developer
-#### Please find my previous works here: [jinqi-li.com](https://jinqi-li.com/)
+### I'm a Front-End Developer (🔭 working on Full-Stack Web Dev recently)
+#### Take a look at my previous works: [jinqi-li.com](https://jinqi-li.com/)
 
 <!--
 **kikijinqili/kikijinqili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
