@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a Front-End / UI Developer.
+### I'm a Full-Stack / Front-End Developer.
 #### Find my previous works at [jinqi-li.com](https://jinqi-li.com/).
 
 <!--
