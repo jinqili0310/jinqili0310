@@ -3,7 +3,7 @@
 #### Find my previous works at [jinqi-li.com](https://jinqi-li.com/).
 
 <!--
-**kikijinqili/kikijinqili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jinqili0310/jinqili0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
