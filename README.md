@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a Full-Stack / Front-End Developer.
+### I'm a Full-Stack / Front-End Engineer.
 #### Find my previous works at [jinqi-li.com](https://jinqi-li.com/).
 
 <!--
