@@ -2,6 +2,8 @@
 ### I'm a Full-Stack / Front-End Engineer.
 #### Find my previous works at [jinqi-li.com](https://jinqi-li.com/).
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jinqili310?theme=dark&font=Open%20Sans&ext=heatmap)
+
 <!--
 **jinqili0310/jinqili0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
